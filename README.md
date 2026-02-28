@@ -23,9 +23,4 @@ I'm an Information Technology student with a background in software development 
 > **Note:** I am currently polishing and documenting my previous school projects. Stay tuned for updates as I migrate my academic work to GitHub! 🚧
 
 ---
-
-### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R8THBIT&show_icons=true&theme=tokyonight)
-
----
 *“The network is the computer.”*
